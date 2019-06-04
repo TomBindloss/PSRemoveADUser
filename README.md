@@ -1,7 +1,7 @@
 # PSRemoveADUser
 Remove a user from Active Directory and handle exchange mailbox
 
-AD - <br>
+<strong>AD - <br></strong>
 This script will disable an AD Users account. <br>
 Remove them from all AD Groups. <br>
 
