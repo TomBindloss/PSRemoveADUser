@@ -1,12 +1,13 @@
 # PSRemoveADUser
 Remove a user from Active Directory and handle exchange mailbox
 
-This script will disable an AD Users account.
-Remove them from all AD Groups.
+AD - <br>
+This script will disable an AD Users account. <br>
+Remove them from all AD Groups. <br>
 
-Exchange - 
-Set mailbox as shared
-Forward mailbox to another 
-Give that user full access to the mailbox
-Set an automatic reply
-Remove exchange license
+<strong>Exchange -<br></strong>
+Set mailbox as shared<br>
+Forward mailbox to another <br>
+Give that user full access to the mailbox<br>
+Set an automatic reply<br>
+Remove exchange license<br>
